@@ -20,9 +20,10 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "paul-james.github.io" # the base hostname & protocol for your site
+url: "https://www.paul-james.github.io" # the base hostname & protocol for your site
 twitter_username: PaulJames379
 github_username:  paul-james
+permalink: /blog/:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
