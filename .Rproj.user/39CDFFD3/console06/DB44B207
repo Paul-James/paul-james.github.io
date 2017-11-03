@@ -1,108 +1,0 @@
-[0m[0K[0;32;92mx763240@USMH501200[0m:[0;34;94m~[0m[0K[?25l
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd ~[0K[?25h/[0Kn[0Kn[0Ka[0K[?25l$ cd ~/nn[0K[?25h[?25l$ cd ~/n[0K[?25h[?25l$ cd ~/[0K[?25hr[0Ke[0Kp[0Ko[0Ks[0K/[0Kc[0K[?25l$ cd ~/repos/[0K[?25hg[0Ki[0Kt[0Kh[0Kiu[0Kb[0K[?25l$ cd ~/repos/githiu[0K[?25h[?25l$ cd ~/repos/githi[0K[?25h[?25l$ cd ~/repos/gith[0K[?25h[?25l$ cd ~/repos/git[0K[?25hh[0Ku[0Kb[0K/[0Kp[0Ka[0Ku[0Kl[0K-james.github.io/[0K[?25l
-[0;32;92mx763240@USMH501200[0m:[0;34;94m~/repos/github/paul-james.github.io[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hl[0K[?25l
-[0K[?25htotal 28K[0K[?25l
-drwx------+ 1 x763240 mkpasswd   0 Nov  3 16:48 [0;34;94m.Rproj.user[0m[0K
-drwx------+ 1 x763240 mkpasswd   0 Nov  3 16:47 [0;34;94m.git[0m[0K
--rwx------  1 x763240 mkpasswd   0 Nov  3 16:47 [0;32;92m.gitignore[0m[0K
--rwx------  1 x763240 mkpasswd 382 Nov  3 16:58 [0;32;92mDESCRIPTION[0m[0K
--rwx------  1 x763240 mkpasswd 12K Nov  3 16:47 [0;32;92mLICENSE[0m[0K
--rwx------  1 x763240 mkpasswd  22 Nov  3 16:47 [0;32;92mREADME.md[0m[0K
--rwx------  1 x763240 mkpasswd 952 Nov  3 16:47 [0;32;92mconfig.toml[0m[0K
-drwx------+ 1 x763240 mkpasswd   0 Nov  3 16:47 [0;34;94mcontent[0m[0K
--rwx------  1 x763240 mkpasswd  42 Nov  3 16:47 [0;32;92mindex.Rmd[0m[0K
--rwx------  1 x763240 mkpasswd 294 Nov  3 16:52 [0;32;92mpaul-james.github.io.Rproj[0m[0K
-drwx------+ 1 x763240 mkpasswd   0 Nov  3 16:47 [0;34;94mpublic[0m[0K
-drwx------+ 1 x763240 mkpasswd   0 Nov  3 16:47 [0;34;94mstatic[0m[0K
-drwx------+ 1 x763240 mkpasswd   0 Nov  3 16:47 [0;34;94mthemes[0m[0K
-[0K[?25h[0;32;92mx763240@USMH501200[0m:[0;34;94m~/repos/github/paul-james.github.io[0m[0K[?25l
-$[0K[3G[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ b[0K[?25hr[0Ka[0Kn[0Ks[0Kh[0K[?25l$ brans[0K[?25h[?25l$ bran[0K[?25hs[0Kh[0K[?25l$ brans[0K[?25h[?25l$ bran[0K[?25hc[0K[?25lh[0K[8G[?25h[9G[?25l
-[0K[?25hbash: branch: command not found[0K[?25l
-[0;32;92mx763240@USMH501200[0m:[0;34;94m~/repos/github/paul-james.github.io[0m[0K
-$[0K[3G[?25h[?25l$ branch[0K[?25h[?25l$[0K[9G[?25h[3G[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git b[0K[7G[?25h[8G[?25l$ git br[0K[?25ha[0Kn[0Kc[0Kh[0K[?25l
-[0K[?25h* [0;32mmaster[0m[0K[?25l
-[0K[?25h[0;32;92mx763240@USMH501200[0m:[0;34;94m~/repos/github/paul-james.github.io[0m[0K[?25l
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hh[0Ke[0K[?25lc[0K[10G[?25h[11G[?25l$ git check[0K[11G[?25h[12G[?25l$ git checko[0K[?25hu[0Kt[0K[16G[?25l$ git checkout s[0K[?25ho[0Ku[0Kr[0Kc[0Ke[0K[?25l
-[0K[?25herror: pathspec 'source' did not match any file(s) known to git.[0K[?25l
-[0K[?25h[0;32;92mx763240@USMH501200[0m:[0;34;94m~/repos/github/paul-james.github.io[0m[0K[?25l
-$[0K[3G[?25h[?25l$ git checkout source[0K[?25h[21G[20G[19G[18G[17G[16G[?25l$ git checkout -source[0K[17G[?25h[?25l$ git checkout -bsource[0K[18G[?25h[?25l$ git checkout -b source[0K[19G[?25h[?25l
-[0K[?25hSwitched to a new branch 'source'[0K[?25l
-M       README.md[0K
-[0;32;92mx763240@USMH501200[0m:[0;34;94m~/repos/github/paul-james.github.io[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hl[0K[?25l
-[0K[?25htotal 726K[0K[?25l
--rwx------  1 x763240 mkpasswd   17 Nov  3 16:59 [0;32;92m.Rbuildignore[0m[0K
-drwx------+ 1 x763240 mkpasswd    0 Nov  3 16:48 [0;34;94m.Rproj.user[0m[0K
-drwx------+ 1 x763240 mkpasswd    0 Nov  3 17:14 [0;34;94m.git[0m[0K
--rwx------  1 x763240 mkpasswd    0 Nov  3 16:47 [0;32;92m.gitignore[0m[0K
--rwx------  1 x763240 mkpasswd  537 Nov  3 17:11 [0;32;92m.travis.yml[0m[0K
--rwx------  1 x763240 mkpasswd  402 Nov  3 17:10 [0;32;92mDESCRIPTION[0m[0K
--rwx------  1 x763240 mkpasswd  12K Nov  3 16:47 [0;32;92mLICENSE[0m[0K
--rwx------  1 x763240 mkpasswd 696K Nov  3 17:04 [0;32;92mREADME.html[0m[0K
--rwx------  1 x763240 mkpasswd  497 Nov  3 17:04 [0;32;92mREADME.md[0m[0K
--rwx------  1 x763240 mkpasswd  952 Nov  3 16:47 [0;32;92mconfig.toml[0m[0K
-drwx------+ 1 x763240 mkpasswd    0 Nov  3 16:47 [0;34;94mcontent[0m[0K
--rwx------  1 x763240 mkpasswd   42 Nov  3 16:47 [0;32;92mindex.Rmd[0m[0K
--rwx------  1 x763240 mkpasswd  294 Nov  3 16:52 [0;32;92mpaul-james.github.io.Rproj[0m[0K
-drwx------+ 1 x763240 mkpasswd    0 Nov  3 16:47 [0;34;94mpublic[0m[0K
-drwx------+ 1 x763240 mkpasswd    0 Nov  3 16:47 [0;34;94mstatic[0m[0K
-drwx------+ 1 x763240 mkpasswd    0 Nov  3 16:47 [0;34;94mthemes[0m[0K
-[0;32;92mx763240@USMH501200[0m:[0;34;94m~/repos/github/paul-james.github.io[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch source[0K[?25l
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   README.md[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rbuildignore[0m[0K
-        [0;31m.Rproj.user/[0m[0K
-        [0;31m.travis.yml[0m[0K
-        [0;31mDESCRIPTION[0m[0K
-        [0;31mREADME.html[0m[0K
-        [0;31mpaul-james.github.io.Rproj[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0;32;92mx763240@USMH501200[0m:[0;34;94m~/repos/github/paul-james.github.io[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/pcs/files-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/pcs/source-pane.pper.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/pcs/windowlayoutstate.pper.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/pcs/workbench-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/persistent-state.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/rmd-outputs.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/prop/2E9C844E.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/prop/962B4AC0.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/prop/B0706EB4.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/prop/INDEX.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/s-ECB03836/45001BB.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/s-ECB03836/45001BB-contents.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/s-ECB03836/6AFCCCDC.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/s-ECB03836/6AFCCCDC-contents.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/s-ECB03836/9E653C36.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/39CDFFD3/sources/s-ECB03836/9E653C36-contents.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[0;32;92mx763240@USMH501200[0m:[0;34;94m~/repos/github/paul-james.github.io[0m[0K[?25l
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25h[?25lo[0K[8G[?25h[9G[?25l$ git com[0K[?25hm[0Km[0Ki[0K[?25l$ git commm[0K[13G[?25h[12G[?25l$ git comm[0K[?25hi[0Kt[0K[14G[?25l$ git commit =[0K[?25h[?25l$ git commit[0K[14G[?25h[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m '[0K[?25hs[0Kt[0Ka[0K[?25lr[0K[21G[?25h[22G[?25l$ git commit -m 'start[0K[?25he[0K[?25ld[0K[24G[?25h[25G[26G[25G[?25l$ git commit -m 'starte[0K[?25hd[0K[26G[25G[?25l$ git commit -m 'starte[0K[?25h[?25l$ git commit -m 'start[0K[24G[?25h[23G[?25l$ git commit -m 'startp[0K[?25h[?25lu[0K[24G[?25h[25G[?25l$ git commit -m 'startput[0K[?25ht[0Ki[0Kn[0Kg[0K[31G[?25l$ git commit -m 'startputting b[0K[?25hl[0Ko[0Kg[0K[36G[?25l$ git commit -m 'startputting blog p[0K[?25hi[0Kc[0Ke[0K[?25ls[0K[40G[?25h[41G[42G[?25l$ git commit -m 'startputting blog pices t[0K[?25ho[0K[?25lg[0K[44G[?25h[45G[?25l$ git commit -m 'startputting blog pices toge[0K[45G[?25h[46G[?25l$ git commit -m 'startputting blog pices toget[0K[?25hh[0Ke[0Kr[0K,[0K[52G[?25l$ git commit -m 'startputting blog pices together, c[0K[?25hr[0Ke[0Ka[0Kt[0Ke[0K[59G[?25l$ git commit -m 'startputting blog pices together, create s[0K[?25ho[0Ku[0Kr[0Kc[0Ke[0K[66G[?25l$ git commit -m 'startputting blog pices together, create source b[0K[?25hr[0Ka[0Kn[0K[?25lc[0K[70G[?25h[71G[?25l$ git commit -m 'startputting blog pices together, create source branch[0K[?25h'[0K[72G[71G[70G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[50G[48G[47G[46G[45G[44G[43G[42G[41G[40G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[24G[23G[?25l$ git commit -m 'start putting blog pices together, create source branch'[0K[24G[?25h[25G[26G[27G[28G[29G[30G[31G[32G[33G[34G[35G[36G[37G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[54G[55G[56G[57G[59G[60G[61G[62G[63G[64G[65G[66G[67G[68G[69G[70G[71G[72G[73G[74G[75G[?25l$ git commit -m 'start putting blog pices together, create source branch' -[0K[?25ha[0K
