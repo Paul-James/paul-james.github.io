@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "http:paul-james.me"
 relativeurls = true
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Paul James' Rando Analytics Blog"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -15,10 +15,10 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/Paul-James"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/PaulJames379"
 
 [params]
     description = "A website built through Hugo and blogdown."
