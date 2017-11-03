@@ -1,0 +1,13 @@
+Package: paul_james_site
+Title: My personal website
+Version: 0.0.1
+Date: 2017-11-03
+Authors@R: c(
+  person("Paul", "James", email = "paul.james379@gmail.com", role = c("aut", "cre"))
+  )
+Maintainer: Paul James <paul.james379@gmail.com>
+URL: http://paul-james.me
+BugReports: https://github.com/Paul-James/paul-james.github.io/issues
+Depends: R (>= 3.4.1)
+Encoding: UTF-8
+Suggests: blogdown

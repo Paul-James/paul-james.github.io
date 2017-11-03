@@ -1,0 +1,30 @@
+# R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
+
+language: R
+
+sudo: false
+
+cache: packages
+
+branches:
+    only:
+        - source
+
+before_script:
+    - Rscript -e 'blogdown::install_hugo(version = "0.30.2")'
+
+script:
+    - Rscript -e 'blogdown::build_site()'
+
+deploy:
+    provider: pages
+    skip_cleanup: true
+    github_token: $GITHUB_PAT
+    on:
+        branch: source
+    local_dir: public
+    target_branch: master
+
+notifications:
+  email:
+    - paul.james379@gmail.com
