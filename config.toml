@@ -1,4 +1,4 @@
-baseurl = "http:paul-james.me"
+baseurl = "http://paul-james.me"
 relativeurls = true
 languageCode = "en-us"
 title = "Paul James' Rando Analytics Blog"
