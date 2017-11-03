@@ -10,4 +10,3 @@ URL: http://paul-james.me
 BugReports: https://github.com/Paul-James/paul-james.github.io/issues
 Depends: R (>= 3.4.1)
 Encoding: UTF-8
-Suggests: blogdown

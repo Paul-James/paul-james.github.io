@@ -1,6 +1,6 @@
 # R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
 
-language: R
+language: r
 
 sudo: false
 
@@ -9,6 +9,10 @@ cache: packages
 branches:
     only:
         - source
+
+r_packages:
+    - tidyverse
+    - blogdown
 
 before_script:
     - Rscript -e 'blogdown::install_hugo(version = "0.30.2")'
