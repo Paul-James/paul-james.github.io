@@ -7,25 +7,25 @@ sudo: false
 cache: packages
 
 branches:
-    only:
-        - source
+  only:
+    - source
 
 r_packages:
-    - tidyverse
-    - blogdown
+  - tidyverse
+  - blogdown
 
 before_script:
-    - Rscript -e 'blogdown::install_hugo(version = "0.30.2")'
+  - Rscript -e 'blogdown::install_hugo(version = "0.30.2")'
 
 script:
-    - Rscript -e 'blogdown::build_site()'
+  - Rscript -e 'blogdown::build_site()'
 
 deploy:
-    provider: pages
-    skip_cleanup: true
-    github_token: $GITHUB_PAT
-    on:
-        branch: source
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_PAT
+  on:
+    branch: source
     local_dir: public
     target_branch: master
 
