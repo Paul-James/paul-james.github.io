@@ -1,6 +1,6 @@
 # Paul James' Rando Analytics Blog
 
-[![Travis-CI Build Status](https://travis-ci.org/Paul-James/paul-james.github.io.svg?branch=master)](https://travis-ci.org/Paul-James/paul-james.github.io)
+[![Travis-CI Build Status](https://travis-ci.org/Paul-James/paul-james.github.io.svg?branch=source)](https://travis-ci.org/Paul-James/paul-james.github.io)
 
 http://paul-james.me
 
