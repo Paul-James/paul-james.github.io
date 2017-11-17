@@ -2,7 +2,7 @@ baseurl = "http://paul-james.me"
 relativeurls = true
 languageCode = "en-us"
 title = "Paul James' Rando Analytics Blog"
-theme = "hyde"
+theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -37,4 +37,3 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-
