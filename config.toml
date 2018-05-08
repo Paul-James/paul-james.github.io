@@ -1,4 +1,4 @@
-baseurl = "http://paul-james.me"
+baseurl = "https://paul-james.me"
 relativeurls = true
 languageCode = "en-us"
 title = "Paul James' Rando Analytics Blog"
@@ -16,6 +16,9 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
+[[menu.main]]
+    name = "Resume"
+    url = "/resume/"
 [[menu.main]]
     name = "pjames R-pkg"
     url = "/pjames/"
